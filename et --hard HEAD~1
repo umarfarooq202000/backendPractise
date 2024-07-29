@@ -1,0 +1,35 @@
+[33mcommit 5b80c2da0b7e2665ba3ac7d97af76d55c351764a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: umar farooq <umarfraooq202000@gmail.com>
+Date:   Mon Jul 29 13:42:12 2024 +0530
+
+    connecting database
+
+[33mcommit e258f05145d7dccbcac68c6464a2dc639a83d8d3[m
+Author: umar farooq <umarfraooq202000@gmail.com>
+Date:   Mon Jul 29 12:19:21 2024 +0530
+
+    add prettier
+
+[33mcommit a39e72644ca0da327dc751a78e65000b4c868532[m
+Author: umar farooq <umarfraooq202000@gmail.com>
+Date:   Mon Jul 29 11:52:55 2024 +0530
+
+    fix
+
+[33mcommit 71c494ada171816c6ef106087a35fdb61c0f6960[m
+Author: umar farooq <umarfraooq202000@gmail.com>
+Date:   Mon Jul 29 11:52:00 2024 +0530
+
+    setup files
+
+[33mcommit 346f7279367304efc6141b8d29b38d50523e6e7d[m
+Author: umar farooq <umarfraooq202000@gmail.com>
+Date:   Mon Jul 29 11:50:32 2024 +0530
+
+    file setups
+
+[33mcommit 079e92f5c863512fc59cffd76b8f1acad6c16f89[m
+Author: umar farooq <umarfraooq202000@gmail.com>
+Date:   Sat Jul 27 18:24:12 2024 +0530
+
+    first commit
